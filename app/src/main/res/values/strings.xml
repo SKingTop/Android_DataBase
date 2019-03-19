@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="search">Введите название компании</string>
+    <string name="loading">Загрузка данных...</string>
+    <string name="exit">Выход</string>
+    <string name="feedback">Написать предложение автору</string>
+    <string name="email">s.king@gmail.com</string>
+    <string name="setCompany">Добавьте еще компанию</string>
+    <string name="setNextCompany">Предлагаю следуюющую компанию: </string>
+    <string name="sending">Посылка письма...</string>
+    <string name="error">Нет почтового клиента</string>
+    <string name="largeFont">Большой шрифт</string>
+</resources>
